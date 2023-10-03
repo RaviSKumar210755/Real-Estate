@@ -1,14 +1,35 @@
-import React from 'react'
+import React from "react";
 
 export default function About() {
   return (
-    <div className='py-20 px-4 max-w-6xl mx-auto'>
-      <h1 className='text-3xl font-bold mb-4 text-slate-800'>About Sahand Estate</h1>
-      <p className='mb-4 text-slate-700'>Sahand Estate is a leading real estate agency that specializes in helping clients buy, sell, and rent properties in the most desirable neighborhoods. Our team of experienced agents is dedicated to providing exceptional service and making the buying and selling process as smooth as possible.</p>
-      <p className='mb-4 text-slate-700'>
-      Our mission is to help our clients achieve their real estate goals by providing expert advice, personalized service, and a deep understanding of the local market. Whether you are looking to buy, sell, or rent a property, we are here to help you every step of the way.
+    <div className="py-20 px-4 max-w-6xl mx-auto">
+      <h1 className="text-3xl font-bold mb-4 text-slate-800">
+        About Estate Wave
+      </h1>
+      <p className="mb-4 text-slate-700">
+        Estate Wave stands out as a premier real estate agency, offering
+        specialized services for clients seeking to purchase, sell, or rent
+        properties in sought-after neighborhoods. Our seasoned team of agents is
+        committed to delivering an unparalleled level of service, ensuring that
+        your real estate transactions are effortless and successful.
       </p>
-      <p className='mb-4 text-slate-700'>Our team of agents has a wealth of experience and knowledge in the real estate industry, and we are committed to providing the highest level of service to our clients. We believe that buying or selling a property should be an exciting and rewarding experience, and we are dedicated to making that a reality for each and every one of our clients.</p>
+      <p className="mb-4 text-slate-700">
+        At Estate Wave, our core mission revolves around empowering our clients
+        to realize their real estate aspirations. We achieve this by offering
+        seasoned guidance, tailored support, and an intimate grasp of the
+        nuances within the local market. Whether your objective is buying,
+        selling, or renting a property, our unwavering commitment is to be your
+        trusted partner throughout your entire journey.
+      </p>
+      <p className="mb-4 text-slate-700">
+        Our team of agents brings a wealth of experience and deep-rooted
+        knowledge in the real estate domain. Our unwavering dedication lies in
+        delivering nothing short of the finest service to our clients. We hold
+        the belief that the process of buying or selling a property should be an
+        exhilarating and fulfilling endeavor, and it is our resolute commitment
+        to transform this belief into a tangible reality for each and every one
+        of our valued clients.
+      </p>
     </div>
-  )
+  );
 }
